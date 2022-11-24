@@ -6,20 +6,32 @@ I have been teaching myself to code. Please take a look at some of the things I 
 Feedback is more than welcome!
 
 ## Skills
+### Main skills
 HTML, CSS, JavaScript, Python
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<br>
+<br>
+
+### Other Skills
+React, Angular, Vue, PHP, MySQL, .NET, C#, C++, Java
+
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+<img align="left" alt="cSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<br>
-<br>
 
 
+<br>
+<br>
 
 ## Current Top 3 Projects
 
@@ -122,19 +134,14 @@ Python
 https://github.com/RN255/FFVII_combat_simulator
 
 * **Create Instructions Using a Stack**  
-A program to create a set of instructions using stacks  
+A program to create a set of instructions using a stack data structure  
 Python  
 https://github.com/RN255/ten_step_stacks_instructions
 
-* **Track Orders Using a Queue Data Structure**  
-A program to track orders using a queue  
+* **Track Orders Using a Queue**  
+A program to track orders using a queue data structure 
 Python  
 https://github.com/RN255/order_tracker_queue
-
-* **Create Instructions Using a Stack**  
-A program to create a set of instructions using stacks  
-Python  
-https://github.com/RN255/ten_step_stacks_instructions
 
 * **Note Taking App Using a Doubly Linked List**  
 User can input information that is then stored in a doubly linked list  
