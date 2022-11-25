@@ -75,17 +75,17 @@ https://github.com/RN255/front-end-task-1
 * **Let's Learn Chinese (React)**  
 The same Chinese website as above created using React      
 React    
-https://github.com/RN255/front-end-task-1
+https://github.com/RN255/React-Learn-Chinese
 
 * **Weekly Planner (Angular)**  
 Weekly planner created using Angular  
 React  
-https://github.com/RN255/front-end-task-1
+https://github.com/RN255/weekly-planner-angular
 
 * **Loan App Front End (Vue)**  
 The same loan app as above created using Vue  
 Vue  
-https://github.com/RN255/front-end-task-1
+https://github.com/RN255/vue-loan-front-end
 
 ## Web Games
 
