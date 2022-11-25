@@ -17,7 +17,7 @@ HTML, CSS, JavaScript, Python
 <br>
 
 ### Other Skills
-React, Angular, Vue, PHP, MySQL, .NET, C#, C++, Java
+React, Vue, PHP, MySQL, .NET, C#, C++, Java
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -76,11 +76,6 @@ https://github.com/RN255/front-end-task-1
 The same Chinese website as above created using React      
 React    
 https://github.com/RN255/React-Learn-Chinese
-
-* **Weekly Planner (Angular)**  
-Weekly planner created using Angular  
-React  
-https://github.com/RN255/weekly-planner-angular
 
 * **Loan App Front End (Vue)**  
 The same loan app as above created using Vue  
