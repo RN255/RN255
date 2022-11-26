@@ -103,7 +103,7 @@ https://github.com/RN255/naughts-and-crosses
 * **PHP Note Taker**  
 Note taking application with mySQL database connection  
 PHP, MySQL  
-https://github.com/RN255/html-game-A 
+https://github.com/RN255/php-note-taker
 
 ## .NET Projects
 
