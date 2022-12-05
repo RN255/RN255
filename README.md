@@ -1,8 +1,5 @@
 # Hi. I'm looking for my first job as a developer.
 
-### About me
-I have been teaching myself to code. Please take a look at some of the things I have made.  
-
 ## Skills
 ### Main skills
 HTML, CSS, JavaScript, Python
