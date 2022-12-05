@@ -1,9 +1,7 @@
 # Hi. I'm looking for my first job as a developer.
 
 ### About me
-I lived abroad for twelve years as an English teacher. I have now returned to the UK and it's time for a career change!  
 I have been teaching myself to code. Please take a look at some of the things I have made.  
-Feedback is more than welcome!
 
 ## Skills
 ### Main skills
