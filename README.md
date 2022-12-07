@@ -34,15 +34,15 @@ A website for a fictional business
 HTML, CSS, JavaScript  
 https://github.com/RN255/Rurally 
 
-2. **Three moutains in Daejeon**  
+2. **Superflight (React)**  
+A website for booking flights  
+React  
+https://github.com/RN255/react-project-two  
+
+3. **Three moutains in Daejeon**  
 A website about mountains in Daejeon, South Korea  
 HTML, CSS, JavaScript  
 https://github.com/RN255/ThreeMountainsTwo
-
-3. **Let's learn Chinese**  
-A website for learning Chinese    
-HTML, CSS, JavaScript  
-https://github.com/RN255/Lets-Learn-Chinese-Website 
 
 ## Front End Projects
 
