@@ -30,10 +30,10 @@ A website for booking flights
 React  
 https://github.com/RN255/react-project-two  
 
-3. **Three moutains in Daejeon**  
-A website about mountains in Daejeon, South Korea  
-HTML, CSS, JavaScript  
-https://github.com/RN255/ThreeMountainsTwo
+3. **HelloCafé (Bootstrap)**  
+A website about a coffee product    
+Bootstrap  
+https://github.com/RN255/bootstrap-one 
 
 ## Front End Projects
 
@@ -46,6 +46,11 @@ https://github.com/RN255/Rurally
 A website about mountains in Daejeon, South Korea  
 HTML, CSS, JavaScript  
 https://github.com/RN255/ThreeMountainsTwo
+
+* **HelloCafé (Bootstrap)**  
+A website about a coffee product    
+Bootstrap  
+https://github.com/RN255/bootstrap-one   
 
 * **Let's learn Chinese**  
 A website for learning Chinese    
