@@ -58,41 +58,7 @@ The same loan app as above created using Vue
 Vue  
 https://github.com/RN255/vue-loan-front-end
 
-## Web Games
-
-* **Scoot and Shoot**  
-Scouting and artillery strategy game  
-HTML, CSS, JavaScript  
-https://github.com/RN255/html-game-A 
-
-* **FFVII Combat Simulator**  
-Online fighting game based on Final Fantasy VII  
-HTML, CSS, JavaScript  
-https://github.com/RN255/FFVII-combat-simulator-website 
-
-* **Naughts and Crosses**  
-Online naughts and crosses game  
-HTML, CSS, JavaScript  
-https://github.com/RN255/naughts-and-crosses
-
-## PHP/MySQL Projects
-
-* **PHP Note Taker**  
-Note taking application with mySQL database connection  
-PHP, MySQL  
-https://github.com/RN255/php-note-taker
-
-## .NET Projects
-
-* **.NET Database Application**  
-Input and access data in a database using .NET  
-.NET  
-https://github.com/RN255/https---github.com-RN255-dotnet-project
-
 ## Python Projects
-<details>
-<summary>click to view</summary>
-<br>
 
 * **Battleships Game**  
 Battleships with computer opponent  
@@ -143,7 +109,39 @@ https://github.com/RN255/quiz_game
 Flashcard application for learning Korean  
 Python  
 https://github.com/RN255/Korean_flashcards
-</details>
+
+## Web Games
+
+* **Scoot and Shoot**  
+Scouting and artillery strategy game  
+HTML, CSS, JavaScript  
+https://github.com/RN255/html-game-A 
+
+* **FFVII Combat Simulator**  
+Online fighting game based on Final Fantasy VII  
+HTML, CSS, JavaScript  
+https://github.com/RN255/FFVII-combat-simulator-website 
+
+* **Naughts and Crosses**  
+Online naughts and crosses game  
+HTML, CSS, JavaScript  
+https://github.com/RN255/naughts-and-crosses
+
+## PHP/MySQL Projects
+
+* **PHP Note Taker**  
+Note taking application with mySQL database connection  
+PHP, MySQL  
+https://github.com/RN255/php-note-taker
+
+## .NET Projects
+
+* **.NET Database Application**  
+Input and access data in a database using .NET  
+.NET  
+https://github.com/RN255/https---github.com-RN255-dotnet-project
+
+
 
 ## Other Projects
 <details>
