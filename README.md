@@ -16,23 +16,6 @@ HTML, CSS, JavaScript, React, Bootstrap, Sass, Python, PHP, MySQL, .NET
 <br>
 <br>
 
-## Current Top 3 Projects
-
-1. **Rurally**  
-A website for a fictional business  
-HTML, CSS, JavaScript  
-https://github.com/RN255/Rurally 
-
-2. **Superflight (React)**  
-A website for booking flights  
-React  
-https://github.com/RN255/react-project-two  
-
-3. **HelloCafé (Bootstrap)**  
-A website about a coffee product    
-Bootstrap  
-https://github.com/RN255/bootstrap-one 
-
 ## Front End Projects
 
 * **Rurally**  
@@ -40,15 +23,20 @@ A website for a fictional business
 HTML, CSS, JavaScript  
 https://github.com/RN255/Rurally 
 
-* **Three moutains in Daejeon**  
-A website about mountains in Daejeon, South Korea  
-HTML, CSS, JavaScript  
-https://github.com/RN255/ThreeMountainsTwo
+* **Superflight (React)**  
+A website for booking flights  
+React  
+https://github.com/RN255/react-project-two  
 
 * **HelloCafé (Bootstrap)**  
 A website about a coffee product    
 Bootstrap  
 https://github.com/RN255/bootstrap-one   
+
+* **Three moutains in Daejeon**  
+A website about mountains in Daejeon, South Korea  
+HTML, CSS, JavaScript  
+https://github.com/RN255/ThreeMountainsTwo
 
 * **Let's learn Chinese**  
 A website for learning Chinese    
