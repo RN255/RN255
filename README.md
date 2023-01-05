@@ -60,6 +60,23 @@ The same loan app as above created using Vue
 Vue  
 https://github.com/RN255/vue-loan-front-end
 
+## Web Games
+
+* **Scoot and Shoot**  
+Scouting and artillery strategy game  
+HTML, CSS, JavaScript  
+https://github.com/RN255/html-game-A 
+
+* **FFVII Combat Simulator**  
+Online fighting game based on Final Fantasy VII  
+HTML, CSS, JavaScript  
+https://github.com/RN255/FFVII-combat-simulator-website 
+
+* **Naughts and Crosses**  
+Online naughts and crosses game  
+HTML, CSS, JavaScript  
+https://github.com/RN255/naughts-and-crosses
+
 ## Python Projects
 
 * **Battleships Game**  
@@ -111,23 +128,6 @@ https://github.com/RN255/quiz_game
 Flashcard application for learning Korean  
 Python  
 https://github.com/RN255/Korean_flashcards
-
-## Web Games
-
-* **Scoot and Shoot**  
-Scouting and artillery strategy game  
-HTML, CSS, JavaScript  
-https://github.com/RN255/html-game-A 
-
-* **FFVII Combat Simulator**  
-Online fighting game based on Final Fantasy VII  
-HTML, CSS, JavaScript  
-https://github.com/RN255/FFVII-combat-simulator-website 
-
-* **Naughts and Crosses**  
-Online naughts and crosses game  
-HTML, CSS, JavaScript  
-https://github.com/RN255/naughts-and-crosses
 
 ## PHP/MySQL Projects
 
