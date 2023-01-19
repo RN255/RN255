@@ -20,7 +20,7 @@ HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind CSS, Python, PHP, MySQL,
 
 ## Front End Projects
 
-* **Premier Volkswagen**  
+* **Premium Volkswagen**  
 A website to showcase a new car  
 HTML, CSS, JavaScript, Bootstrap  
 https://github.com/RN255/blueskyTask
