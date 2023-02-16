@@ -1,5 +1,3 @@
-# Hi. I'm looking for my first job as a developer.
-
 ## Skills
 HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind CSS, Python, PHP, MySQL, .NET
 
