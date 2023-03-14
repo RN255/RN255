@@ -16,7 +16,7 @@ HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind CSS, Python, PHP, MySQL,
 <br>
 <br>
 
-## Current Top Projects (:thumbsup:BEST:fire:)
+## Current Top Projects (:fire:BEST:fire:)
 
 * **Premium Volkswagen**  
 A website to showcase a new car  
