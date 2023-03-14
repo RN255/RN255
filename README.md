@@ -16,7 +16,7 @@ HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind CSS, Python, PHP, MySQL,
 <br>
 <br>
 
-## Front End Projects
+## Current Top Projects (:thumbsup:BEST:fire:)
 
 * **Premium Volkswagen**  
 A website to showcase a new car  
@@ -28,20 +28,22 @@ A website for a fictional business
 HTML, CSS, JavaScript  
 https://github.com/RN255/Rurally 
 
+* **Three moutains in Daejeon**  
+A website about mountains in Daejeon, South Korea  
+HTML, CSS, JavaScript  
+https://github.com/RN255/ThreeMountainsTwo
+
 * **Superflight (React)**  
 A website for booking flights  
 React  
 https://github.com/RN255/react-project-two  
 
+## Front End Projects
+
 * **HelloCafé (Bootstrap)**  
 A website about a coffee product    
 Bootstrap  
 https://github.com/RN255/bootstrap-one   
-
-* **Three moutains in Daejeon**  
-A website about mountains in Daejeon, South Korea  
-HTML, CSS, JavaScript  
-https://github.com/RN255/ThreeMountainsTwo
 
 * **Let's learn Chinese**  
 A website for learning Chinese    
@@ -79,6 +81,20 @@ https://github.com/RN255/FFVII-combat-simulator-website
 Online naughts and crosses game  
 HTML, CSS, JavaScript  
 https://github.com/RN255/naughts-and-crosses
+
+## PHP/MySQL Projects
+
+* **PHP Note Taker**  
+Note taking application with mySQL database connection  
+PHP, MySQL  
+https://github.com/RN255/php-note-taker
+
+## .NET Projects
+
+* **.NET Database Application**  
+Input and access data in a database using .NET  
+.NET  
+https://github.com/RN255/https---github.com-RN255-dotnet-project
 
 ## Python Projects
 
@@ -131,22 +147,6 @@ https://github.com/RN255/quiz_game
 Flashcard application for learning Korean  
 Python  
 https://github.com/RN255/Korean_flashcards
-
-## PHP/MySQL Projects
-
-* **PHP Note Taker**  
-Note taking application with mySQL database connection  
-PHP, MySQL  
-https://github.com/RN255/php-note-taker
-
-## .NET Projects
-
-* **.NET Database Application**  
-Input and access data in a database using .NET  
-.NET  
-https://github.com/RN255/https---github.com-RN255-dotnet-project
-
-
 
 ## Other Projects
 <details>
