@@ -18,11 +18,6 @@ HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind CSS, Python, PHP, MySQL,
 
 ## Current Top Projects (:fire:BEST:fire:)
 
-* **Premium Volkswagen**  
-A website to showcase a new car  
-HTML, CSS, JavaScript, Bootstrap  
-https://github.com/RN255/blueskyTask
- 
 * **Rurally**  
 A website for a fictional business  
 HTML, CSS, JavaScript  
@@ -32,6 +27,11 @@ https://github.com/RN255/Rurally
 A website about mountains in Daejeon, South Korea  
 HTML, CSS, JavaScript  
 https://github.com/RN255/ThreeMountainsTwo
+
+* **Premium Volkswagen**  
+A website to showcase a new car  
+HTML, CSS, JavaScript, Bootstrap  
+https://github.com/RN255/blueskyTask
 
 * **Superflight (React)**  
 A website for booking flights  
