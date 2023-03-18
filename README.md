@@ -65,6 +65,20 @@ The same loan app as above created using Vue
 Vue  
 https://github.com/RN255/vue-loan-front-end
 
+## PHP/MySQL Projects
+
+* **PHP Note Taker**  
+Note taking application with mySQL database connection  
+PHP, MySQL  
+https://github.com/RN255/php-note-taker
+
+## .NET Projects
+
+* **.NET Database Application**  
+Input and access data in a database using .NET  
+.NET  
+https://github.com/RN255/https---github.com-RN255-dotnet-project
+
 ## Web Games
 
 * **Scoot and Shoot**  
@@ -81,20 +95,6 @@ https://github.com/RN255/FFVII-combat-simulator-website
 Online naughts and crosses game  
 HTML, CSS, JavaScript  
 https://github.com/RN255/naughts-and-crosses
-
-## PHP/MySQL Projects
-
-* **PHP Note Taker**  
-Note taking application with mySQL database connection  
-PHP, MySQL  
-https://github.com/RN255/php-note-taker
-
-## .NET Projects
-
-* **.NET Database Application**  
-Input and access data in a database using .NET  
-.NET  
-https://github.com/RN255/https---github.com-RN255-dotnet-project
 
 ## Python Projects
 
