@@ -1,5 +1,5 @@
 ## Skills
-HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind CSS, Python, PHP, MySQL, .NET
+HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind CSS, Python, PHP, MySQL, .NET, Django
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -12,6 +12,7 @@ HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind CSS, Python, PHP, MySQL,
 <img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="dotnet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+<img align="left" alt="dotnet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
 <br>
 <br>
@@ -65,14 +66,17 @@ The same loan app as above created using Vue
 Vue  
 https://github.com/RN255/vue-loan-front-end
 
-## PHP/MySQL Projects
+## Back End Projects
+
+* **Cheshire Car Shop (Django)**  
+Car E-commerce website using Django  
+Django, Bootstrap  
+https://github.com/RN255/carshop-django-project
 
 * **PHP Note Taker**  
 Note taking application with mySQL database connection  
 PHP, MySQL  
 https://github.com/RN255/php-note-taker
-
-## .NET Projects
 
 * **.NET Database Application**  
 Input and access data in a database using .NET  
@@ -97,6 +101,9 @@ HTML, CSS, JavaScript
 https://github.com/RN255/naughts-and-crosses
 
 ## Python Projects
+<details>
+<summary>click to view</summary>
+<br>
 
 * **Battleships Game**  
 Battleships with computer opponent  
@@ -147,7 +154,10 @@ https://github.com/RN255/quiz_game
 Flashcard application for learning Korean  
 Python  
 https://github.com/RN255/Korean_flashcards
+</details>
 
+  
+  
 ## Other Projects
 <details>
 <summary>click to view</summary>
@@ -173,18 +183,3 @@ https://github.com/RN255/CPP-Chinese-flashcards
 
 
 
-
-<!--
-**RN255/RN255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
