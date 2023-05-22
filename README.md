@@ -17,7 +17,13 @@ HTML, CSS, JavaScript, React, Bootstrap, Sass, Tailwind CSS, Python, PHP, MySQL,
 <br>
 <br>
 
-## Current Top Projects (:fire:BEST:fire:)
+## Published Projects (:computer:DEPLOYED:computer:)
+* **Dan Dan Chinese**  
+A website for learning Chinese (:mahjong: :cn: :rice:)  
+HTML, CSS, JavaScript  
+https://github.com/RN255/learn-chinese-gold
+
+## Top Projects (:fire:BEST:fire:)
 
 * **Rurally**  
 A website for a fictional business  
