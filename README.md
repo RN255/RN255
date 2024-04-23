@@ -13,7 +13,7 @@ HTML, CSS, JavaScript, React, Bootstrap, Python
 
 ## Published Projects
 * **Dan Dan Chinese**  
-A website for learning Chinese (:mahjong: :cn: :rice:)  
+A website for learning Chinese  
 HTML, CSS, JavaScript  
 https://github.com/RN255/learn-chinese-gold
 
