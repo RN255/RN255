@@ -11,13 +11,13 @@ HTML, CSS, JavaScript, React, Bootstrap, Python
 <br>
 <br>
 
-## Published Projects (:computer:DEPLOYED:computer:)
+## Published Projects
 * **Dan Dan Chinese**  
 A website for learning Chinese (:mahjong: :cn: :rice:)  
 HTML, CSS, JavaScript  
 https://github.com/RN255/learn-chinese-gold
 
-## Top Projects (:fire:BEST:fire:)
+## Top Projects
 
 * **Rurally**  
 A website for a fictional business  
