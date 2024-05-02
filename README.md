@@ -12,22 +12,25 @@ HTML, CSS, JavaScript, React, Bootstrap, Python, MERN
 <br>
 <br>
 
-## Projects
+## Top Projects
 
 * **Rurally**  
 A website for a fictional business  
 HTML, CSS, JavaScript  
 https://github.com/RN255/Rurally 
 
-* **Three moutains in Daejeon**  
-A website about mountains in Daejeon, South Korea  
-HTML, CSS, JavaScript  
-https://github.com/RN255/ThreeMountainsTwo
-
 * **Dan Dan Chinese (React)**  
 A website for learning Chinese  
 HTML, CSS, JavaScript  
 https://github.com/RN255/learn-chinese-gold
+
+
+## Front End Projects
+
+* **Three moutains in Daejeon**  
+A website about mountains in Daejeon, South Korea  
+HTML, CSS, JavaScript  
+https://github.com/RN255/ThreeMountainsTwo
 
 * **Premium Volkswagen**  
 A website to showcase a new car  
@@ -37,9 +40,7 @@ https://github.com/RN255/blueskyTask
 * **Superflight (React)**  
 A website for booking flights  
 React  
-https://github.com/RN255/react-project-two  
-
-## Front End Projects
+https://github.com/RN255/react-project-two 
 
 * **HelloCafé (Bootstrap)**  
 A website about a coffee product    
