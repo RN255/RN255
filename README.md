@@ -1,5 +1,5 @@
 ## Skills
-HTML, CSS, JavaScript, React, Bootstrap, Python
+HTML, CSS, JavaScript, React, Bootstrap, Python, MERN
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -7,17 +7,12 @@ HTML, CSS, JavaScript, React, Bootstrap, Python
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
 <br>
 <br>
 
-## Published Projects
-* **Dan Dan Chinese**  
-A website for learning Chinese  
-HTML, CSS, JavaScript  
-https://github.com/RN255/learn-chinese-gold
-
-## Top Projects
+## Projects
 
 * **Rurally**  
 A website for a fictional business  
@@ -28,6 +23,11 @@ https://github.com/RN255/Rurally
 A website about mountains in Daejeon, South Korea  
 HTML, CSS, JavaScript  
 https://github.com/RN255/ThreeMountainsTwo
+
+* **Dan Dan Chinese (React)**  
+A website for learning Chinese  
+HTML, CSS, JavaScript  
+https://github.com/RN255/learn-chinese-gold
 
 * **Premium Volkswagen**  
 A website to showcase a new car  
