@@ -84,7 +84,10 @@ Input and access data in a database using .NET
 https://github.com/RN255/https---github.com-RN255-dotnet-project
 
 ## Web Games
-
+<details>
+<summary>click to view</summary>
+<br>
+  
 * **Scoot and Shoot**  
 Scouting and artillery strategy game  
 HTML, CSS, JavaScript  
@@ -99,6 +102,7 @@ https://github.com/RN255/FFVII-combat-simulator-website
 Online naughts and crosses game  
 HTML, CSS, JavaScript  
 https://github.com/RN255/naughts-and-crosses
+</details>
 
 ## Python Projects
 <details>
