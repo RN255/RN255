@@ -15,7 +15,7 @@ HTML, CSS, JavaScript, React, Bootstrap, Python, MERN
 ## Top Projects
 
 * **ESL Gateway**  
-A job's board for ESL jobs  
+A job board for ESL jobs  
 MERN  
 https://github.com/RN255/mern-jobs-site 
 
