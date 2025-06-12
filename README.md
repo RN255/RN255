@@ -15,12 +15,17 @@ HTML, CSS, JavaScript, React, Bootstrap, Python, MERN, .NET
 
 ## Most Recent Project
 
+* **AI cover letter creator**  
+AI cover letter cretor using GPT API  
+MERN  
+https://github.com/RN255/ThemUs
+
+## Top Projects
+
 * **Oracle Telescopes**  
 E-commerce website selling telescopes  
 ASP.NET MVC 8  
 https://github.com/RN255/TelescopeShop
-
-## Top Projects
 
 * **ESL Gateway**  
 A job board for ESL jobs  
