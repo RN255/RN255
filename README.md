@@ -1,3 +1,22 @@
+# Data Analysis
+
+## Skills
+Excel, SQL, Power BI
+
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://res.cdn.office.net/files/fabric-cdn-prod_20240610.001/assets/brand-icons/product/svg/excel_32x1.svg" />
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" />
+
+<br>
+
+## Excel Projects
+
+* **Coffee Shop Sales Dashboard**  
+Tracking sales over half a year. Showing sales by day of week, time of day and location.    
+https://github.com/RN255/[Placeholder]
+
+# Web and Software Development
+
 ## Skills
 HTML, CSS, JavaScript, React, Bootstrap, Python, MERN, .NET
 
@@ -13,14 +32,12 @@ HTML, CSS, JavaScript, React, Bootstrap, Python, MERN, .NET
 <br>
 <br>
 
-## Most Recent Project
+## Top Projects
 
 * **AI cover letter creator**  
 AI cover letter cretor using GPT API  
 MERN  
 https://github.com/RN255/ThemUs
-
-## Top Projects
 
 * **Oracle Telescopes**  
 E-commerce website selling telescopes  
@@ -44,7 +61,10 @@ https://github.com/RN255/learn-chinese-gold
 
 
 ## Front End Projects
-
+<details>
+<summary>click to view</summary>
+<br>
+  
 * **Three moutains in Daejeon**  
 A website about mountains in Daejeon, South Korea  
 HTML, CSS, JavaScript  
@@ -84,9 +104,13 @@ https://github.com/RN255/React-Learn-Chinese
 The same loan app as above created using Vue  
 Vue  
 https://github.com/RN255/vue-loan-front-end
+</details>
 
 ## Back End Projects
-
+<details>
+<summary>click to view</summary>
+<br>
+  
 * **Cheshire Car Shop (Django)**  
 Car E-commerce website using Django  
 Django, Bootstrap  
@@ -101,6 +125,7 @@ https://github.com/RN255/php-note-taker
 Input and access data in a database using .NET  
 .NET  
 https://github.com/RN255/https---github.com-RN255-dotnet-project
+</details>
 
 ## Web Games
 <details>
