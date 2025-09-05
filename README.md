@@ -13,7 +13,7 @@ Excel, SQL, Power BI
 
 * **Coffee Shop Sales Dashboard**  
 Tracking sales over half a year. Showing sales by day of week, time of day and location.    
-https://github.com/RN255/[Placeholder]
+https://github.com/RN255/Coffee-Shop-Sales-Excel
 
 # Web and Software Development
 
