@@ -11,6 +11,10 @@ Excel, SQL, Power BI
 
 ## Excel Projects
 
+* **Tea Sales Dashboard**  
+Displaying tea sales by type, size, country and date. Users can also wee if buyers had a membership.   
+https://github.com/RN255/tea-sales-dashboard-excel
+
 * **Coffee Shop Sales Dashboard**  
 Tracking coffee shop sales over half a year. Showing sales by day of week, time of day and location.    
 https://github.com/RN255/Coffee-Shop-Sales-Excel
