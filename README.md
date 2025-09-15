@@ -11,6 +11,10 @@ Excel, SQL, Power BI
 
 ## Excel Projects
 
+* **East and West Cheshire: A comparison**  
+A short project comparing East and West Cheshire.   
+https://github.com/RN255/W-E-Cheshire
+
 * **Tea Sales Dashboard**  
 Displaying tea sales by type, size, country and date. Users can also wee if buyers had a membership.   
 https://github.com/RN255/tea-sales-dashboard-excel
