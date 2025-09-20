@@ -23,6 +23,12 @@ https://github.com/RN255/tea-sales-dashboard-excel
 Tracking coffee shop sales over half a year. Showing sales by day of week, time of day and location.    
 https://github.com/RN255/Coffee-Shop-Sales-Excel
 
+## SQL Projects
+
+* **Drinks sales analysis**  
+Using SQL to understand drinks sales.   
+https://github.com/RN255/W-E-Cheshire
+
 # Web and Software Development
 
 ## Skills
