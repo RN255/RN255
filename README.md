@@ -27,7 +27,7 @@ https://github.com/RN255/Coffee-Shop-Sales-Excel
 
 * **Drinks sales analysis**  
 Using SQL to understand drinks sales.   
-https://github.com/RN255/W-E-Cheshire
+https://github.com/RN255/drinks-sales-sql-analysis/tree/main
 
 # Web and Software Development
 
