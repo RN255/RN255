@@ -16,7 +16,7 @@ A short project comparing East and West Cheshire.
 https://github.com/RN255/W-E-Cheshire
 
 * **Tea Sales Dashboard**  
-Displaying tea sales by type, size, country and date. Users can also wee if buyers had a membership.   
+Displaying tea sales by type, size, country and date. Users can also wee if buyers had a membership.  
 https://github.com/RN255/tea-sales-dashboard-excel
 
 * **Coffee Shop Sales Dashboard**  
@@ -26,7 +26,7 @@ https://github.com/RN255/Coffee-Shop-Sales-Excel
 ## SQL Projects
 
 * **Coffee sales and stock tracker**  
-Keep track of coffee sales, which drinks sold well, how much stock of ingredients we have left. 
+Keep track of coffee sales, which drinks sold well, how much stock of ingredients we have left.  
 https://github.com/RN255/SQL-coffee-sales
 
 * **Drinks sales analysis**  
