@@ -26,7 +26,7 @@ https://github.com/RN255/Coffee-Shop-Sales-Excel
 ## SQL Projects
 
 * **Coffee sales and stock tracker**  
-Keep track of coffee sales, which drinks sold well, how much stock of ingredients we have left.  
+Keep track of coffee sales, which drinks sold well and how much stock we have left.  
 https://github.com/RN255/SQL-coffee-sales
 
 * **Drinks sales analysis**  
