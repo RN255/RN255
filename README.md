@@ -35,9 +35,9 @@ https://github.com/RN255/drinks-sales-sql-analysis/tree/main
 
 ## Power BI projects
 
-* **Coffee sales and stock tracker**  
-Keep track of coffee sales, which drinks sold well and how much stock we have left.  
-https://github.com/RN255/SQL-coffee-sales
+* **Electronics store power BI report**  
+Present data regarding sales of electronic items at various electronics stores.  
+https://github.com/RN255/electronics-store-power-BI-report
 
 # Web and Software Development
 
