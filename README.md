@@ -1,5 +1,7 @@
 # Data Analysis
-  
+<details>
+<summary>click to view</summary>
+<br>
 ## Skills
 Excel, SQL, Power BI
 
@@ -38,6 +40,7 @@ https://github.com/RN255/drinks-sales-sql-analysis/tree/main
 * **Electronics store power BI report**  
 Present data regarding sales of electronic items at various electronics stores.  
 https://github.com/RN255/electronics-store-power-BI-report
+</details>
 
 # Web and Software Development
 
