@@ -48,9 +48,6 @@ Bootstrap
 https://github.com/RN255/bootstrap-one
 
 ## Full Stack Projects
-<details>
-<summary>click to view</summary>
-<br>
 
 * **AI cover letter creator**  
 AI cover letter cretor using GPT API  
@@ -66,22 +63,6 @@ https://github.com/RN255/mern-jobs-site
 E-commerce website selling telescopes  
 ASP.NET MVC 8  
 https://github.com/RN255/TelescopeShop
-
-* **Cheshire Car Shop (Django)**  
-Car E-commerce website using Django  
-Django, Bootstrap  
-https://github.com/RN255/carshop-django-project
-
-* **PHP Note Taker**  
-Note taking application with mySQL database connection  
-PHP, MySQL  
-https://github.com/RN255/php-note-taker
-
-* **.NET Database Application**  
-Input and access data in a database using .NET  
-.NET  
-https://github.com/RN255/https---github.com-RN255-dotnet-project
-</details>
 
 ## Web Games
 <details>
