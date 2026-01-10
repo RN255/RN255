@@ -29,7 +29,7 @@ https://github.com/RN255/blueskyTask
 
 * **Vite-Maru**  
 A website using React, Vite and Bootstrap  
-React, Vite, Bootstrap 
+React, Vite, Bootstrap  
 https://github.com/RN255/vite-maru-01 
 
 * **Three moutains in Daejeon**  
