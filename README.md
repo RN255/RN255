@@ -22,15 +22,20 @@ A website for a fictional business
 HTML, CSS, JavaScript  
 https://github.com/RN255/Rurally 
 
-* **Three moutains in Daejeon**  
-A website about mountains in Daejeon, South Korea  
-HTML, CSS, JavaScript  
-https://github.com/RN255/ThreeMountainsTwo
-
 * **Premium Volkswagen**  
 A website to showcase a new car  
 HTML, CSS, JavaScript, Bootstrap  
 https://github.com/RN255/blueskyTask
+
+* **Vite-Maru**  
+A website using React, Vite and Bootstrap  
+React, Vite, Bootstrap 
+https://github.com/RN255/vite-maru-01 
+
+* **Three moutains in Daejeon**  
+A website about mountains in Daejeon, South Korea  
+HTML, CSS, JavaScript  
+https://github.com/RN255/ThreeMountainsTwo
 
 * **Superflight (React)**  
 A website for booking flights  
