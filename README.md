@@ -1,7 +1,7 @@
 # Data Analysis
 <details>
 <summary>click to view</summary>
-<br>
+
 ## Skills
 Excel, SQL, Power BI
 
