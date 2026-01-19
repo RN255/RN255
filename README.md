@@ -1,3 +1,47 @@
+# Data Analysis
+<details>
+<summary>click to view</summary>
+<br>
+## Skills
+Excel, SQL, Power BI
+
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://res.cdn.office.net/files/fabric-cdn-prod_20240610.001/assets/brand-icons/product/svg/excel_32x1.svg" />
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" />
+
+<br>
+
+## Excel Projects
+
+* **East and West Cheshire: A comparison**  
+A short project comparing East and West Cheshire.   
+https://github.com/RN255/W-E-Cheshire
+
+* **Tea Sales Dashboard**  
+Displaying tea sales by type, size, country and date. Users can also see if buyers had a membership.  
+https://github.com/RN255/tea-sales-dashboard-excel
+
+* **Coffee Shop Sales Dashboard**  
+Tracking coffee shop sales over half a year. Showing sales by day of week, time of day and location.    
+https://github.com/RN255/Coffee-Shop-Sales-Excel
+
+## SQL Projects
+
+* **Coffee sales and stock tracker**  
+Keep track of coffee sales, which drinks sold well and how much stock we have left.  
+https://github.com/RN255/SQL-coffee-sales
+
+* **Drinks sales analysis**  
+Using SQL to understand drinks sales.   
+https://github.com/RN255/drinks-sales-sql-analysis/tree/main
+
+## Power BI projects
+
+* **Electronics store power BI report**  
+Present data regarding sales of electronic items at various electronics stores.  
+https://github.com/RN255/electronics-store-power-BI-report
+</details>
+
 # Web and Software Development
 
 ## Skills
@@ -168,51 +212,3 @@ Learn Chinese using these flashcards
 C++  
 https://github.com/RN255/CPP-Chinese-flashcards
 </details>
-
-# Data Analysis
-<details>
-<summary>click to view</summary>
-<br>
-## Skills
-Excel, SQL, Power BI
-
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://res.cdn.office.net/files/fabric-cdn-prod_20240610.001/assets/brand-icons/product/svg/excel_32x1.svg" />
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" />
-
-<br>
-
-## Excel Projects
-
-* **East and West Cheshire: A comparison**  
-A short project comparing East and West Cheshire.   
-https://github.com/RN255/W-E-Cheshire
-
-* **Tea Sales Dashboard**  
-Displaying tea sales by type, size, country and date. Users can also see if buyers had a membership.  
-https://github.com/RN255/tea-sales-dashboard-excel
-
-* **Coffee Shop Sales Dashboard**  
-Tracking coffee shop sales over half a year. Showing sales by day of week, time of day and location.    
-https://github.com/RN255/Coffee-Shop-Sales-Excel
-
-## SQL Projects
-
-* **Coffee sales and stock tracker**  
-Keep track of coffee sales, which drinks sold well and how much stock we have left.  
-https://github.com/RN255/SQL-coffee-sales
-
-* **Drinks sales analysis**  
-Using SQL to understand drinks sales.   
-https://github.com/RN255/drinks-sales-sql-analysis/tree/main
-
-## Power BI projects
-
-* **Electronics store power BI report**  
-Present data regarding sales of electronic items at various electronics stores.  
-https://github.com/RN255/electronics-store-power-BI-report
-</details>
-
-
-
-
