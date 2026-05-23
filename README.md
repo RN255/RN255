@@ -1,22 +1,14 @@
 # Data Analysis
-<details>
-<summary>click to view</summary>
 
-## Skills
-Excel, SQL, Power BI
-
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://res.cdn.office.net/files/fabric-cdn-prod_20240610.001/assets/brand-icons/product/svg/excel_32x1.svg" />
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" />
-
-<br>
-
-## Excel Projects
+### Excel Projects
 
 * **East and West Cheshire: A comparison**  
 A short project comparing East and West Cheshire.   
 https://github.com/RN255/W-E-Cheshire
 
+<details>
+<summary>See more...</summary>
+  
 * **Tea Sales Dashboard**  
 Displaying tea sales by type, size, country and date. Users can also see if buyers had a membership.  
 https://github.com/RN255/tea-sales-dashboard-excel
@@ -25,61 +17,56 @@ https://github.com/RN255/tea-sales-dashboard-excel
 Tracking coffee shop sales over half a year. Showing sales by day of week, time of day and location.    
 https://github.com/RN255/Coffee-Shop-Sales-Excel
 
-## SQL Projects
+</details>
+
+### SQL Projects
 
 * **Coffee sales and stock tracker**  
 Keep track of coffee sales, which drinks sold well and how much stock we have left.  
 https://github.com/RN255/SQL-coffee-sales
 
+<details>
+<summary>See more...</summary>
+<br>
+
 * **Drinks sales analysis**  
 Using SQL to understand drinks sales.   
 https://github.com/RN255/drinks-sales-sql-analysis/tree/main
 
-## Power BI projects
+</details>
+
+### Power BI projects
 
 * **Electronics store power BI report**  
 Present data regarding sales of electronic items at various electronics stores.  
 https://github.com/RN255/electronics-store-power-BI-report
-</details>
 
 # Web and Software Development
-
-## Skills
-HTML, CSS, JavaScript, React, Bootstrap, Python, MERN, .NET
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-
-<br>
-<br>
 
 ## Front End Projects
 
 * **Rurally**  
 A website for a fictional business  
 HTML, CSS, JavaScript  
-https://github.com/RN255/Rurally 
+https://github.com/RN255/Rurally
 
+<details>
+<summary>See more...</summary>
+  
 * **Premium Volkswagen**  
 A website to showcase a new car  
 HTML, CSS, JavaScript, Bootstrap  
 https://github.com/RN255/blueskyTask
 
-* **Vite-Maru**  
-A website using React, Vite and Bootstrap  
-React, Vite, Bootstrap  
-https://github.com/RN255/vite-maru-01 
-
 * **Three moutains in Daejeon**  
 A website about mountains in Daejeon, South Korea  
 HTML, CSS, JavaScript  
 https://github.com/RN255/ThreeMountainsTwo
+
+* **Vite-Maru**  
+A website using React, Vite and Bootstrap  
+React, Vite, Bootstrap  
+https://github.com/RN255/vite-maru-01 
 
 * **Superflight (React)**  
 A website for booking flights  
@@ -96,6 +83,8 @@ A website about a coffee product
 Bootstrap  
 https://github.com/RN255/bootstrap-one
 
+</details>
+
 ## Full Stack Projects
 
 * **AI cover letter creator**  
@@ -103,6 +92,9 @@ AI cover letter cretor using GPT API
 MERN  
 https://github.com/RN255/ThemUs
 
+<details>
+<summary>See more...</summary>
+  
 * **ESL Gateway**  
 A job board for ESL jobs  
 MERN  
@@ -113,7 +105,9 @@ E-commerce website selling telescopes
 ASP.NET MVC 8  
 https://github.com/RN255/TelescopeShop
 
-## Web Games
+</details>
+
+### Web Games
 <details>
 <summary>click to view</summary>
 <br>
@@ -134,7 +128,7 @@ HTML, CSS, JavaScript
 https://github.com/RN255/naughts-and-crosses
 </details>
 
-## Python Projects
+### Python Projects
 <details>
 <summary>click to view</summary>
 <br>
@@ -192,7 +186,7 @@ https://github.com/RN255/Korean_flashcards
 
   
   
-## Other Projects
+### Other Projects
 <details>
 <summary>click to view</summary>
 <br>
