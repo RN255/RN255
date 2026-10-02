@@ -1,41 +1,16 @@
 # Data Analysis
 
-### Excel Projects
+* **ESL Salaries in Korea 1995 - 2035**  
+Charts that visualise the salaries of ESL teachers in Korea from 1995 until today and beyond.  
+https://github.com/RN255/Korea-Esl-Vercel
 
 * **East and West Cheshire: A comparison**  
 A short project comparing East and West Cheshire.   
 https://github.com/RN255/W-E-Cheshire
 
-<details>
-<summary>See more...</summary>
-  
-* **Tea Sales Dashboard**  
-Displaying tea sales by type, size, country and date. Users can also see if buyers had a membership.  
-https://github.com/RN255/tea-sales-dashboard-excel
-
-* **Coffee Shop Sales Dashboard**  
-Tracking coffee shop sales over half a year. Showing sales by day of week, time of day and location.    
-https://github.com/RN255/Coffee-Shop-Sales-Excel
-
-</details>
-
-### SQL Projects
-
 * **Coffee sales and stock tracker**  
 Keep track of coffee sales, which drinks sold well and how much stock we have left.  
 https://github.com/RN255/SQL-coffee-sales
-
-<details>
-<summary>See more...</summary>
-<br>
-
-* **Drinks sales analysis**  
-Using SQL to understand drinks sales.   
-https://github.com/RN255/drinks-sales-sql-analysis/tree/main
-
-</details>
-
-### Power BI projects
 
 * **Electronics store power BI report**  
 Present data regarding sales of electronic items at various electronics stores.  
